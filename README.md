@@ -78,6 +78,8 @@ a  Next.js frontend (in next-app), a multi-stage Dockerfile, a GitHub Actions wo
 **AWS EC2 instance **:
 - Recommended  light production / CI: `t3.medium` (2 vCPU, 4 GB RAM)
 
+- Note: Parts of this assignment were completed with the help of ChatGPT for learning and clarification purposes. Guidance and code suggestions were taken from documentation
+
 
 
 
