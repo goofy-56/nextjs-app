@@ -87,3 +87,5 @@ a  Next.js frontend (in next-app), a multi-stage Dockerfile, a GitHub Actions wo
 <img width="1920" height="1008" alt=<img width="1920" height="1008" alt="Screenshot 2025-10-08 002143" src="https://github.com/user-attachments/assets/e796cfbc-1e7e-49b5-a255-72dfc6d6c818" />
 "Screenshot 2025-10-08 004057" src="https://github.com/user-attachments/assets/660246ec-6bf9-4462-92ca-99f48964e37b" />
 <img width="1920" height="1008" alt="Screenshot 2025-10-08 001118" src="https://github.com/user-attachments/assets/929a8593-ec20-4ef6-9eb5-a102f38b9f16" />
+<img width="1920" height="1008" alt="Screenshot 2025-10-08 004057" src="https://github.com/user-attachments/assets/844fa687-bedc-4f78-aae2-a87ec068eb06" />
+
