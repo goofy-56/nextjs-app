@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: nextjs
-          image: ghcr.io/goofy-56/nextjs-app:latest
+          image: ghcr.io/goofy-56/nextjs-k8s:latest
           ports:
             - containerPort: 3000
           livenessProbe:
